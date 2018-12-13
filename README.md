@@ -6,12 +6,16 @@ Where an owner of the tokens can provide his vote right to someone.
 ## Background
 
 ERC20
+
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 Proxy
+
 https://blog.zeppelinos.org/proxy-patterns/
 PLCR
+
 https://github.com/ConsenSys/PLCRVoting
 TCR
+
 https://github.com/skmgoldin/tcr
 
 ## Environment Dependencies
