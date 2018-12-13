@@ -27,5 +27,5 @@ In first terminal, run the below command:
 
 Open other terminal and run:
 
-    truffle test ./test/voting.js
+    truffle test ./test/Delegatevoting.js
 
